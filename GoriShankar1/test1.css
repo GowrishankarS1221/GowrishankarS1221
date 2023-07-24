@@ -1,0 +1,61 @@
+h1{
+  padding: 100px; 
+  font-size: x-large;
+}
+.p1{
+  font-size: 500%; 
+  margin-bottom: 0%;
+}
+.p2{
+  font-size: 190%;
+   margin-top: 0%;
+   margin-bottom: 10%;
+}
+.p3{
+  width: 350px; 
+  margin: auto;
+  border: 3px solid green; 
+  padding: 10px; 
+  border-radius: 40px; 
+  font-size: 120%;
+  text-align: center;
+
+}
+.div1{
+  text-align: center; 
+  background-image: url("./images/page1.jpg");
+  height: fit-content;
+}
+.h2{
+  padding-top: 50px;
+  padding-left: 50px; 
+  text-align: left;
+  text-decoration: underline;
+  padding-bottom: 0%;
+}
+.p4{
+  text-align: left;
+  padding-left: 60px;
+}
+
+.h3{
+ padding-left: 50px;
+ text-align: left;
+  text-decoration: underline;
+  padding-bottom: 0%;
+}
+.p5{
+  text-align: left;
+  padding-left: 50px;
+}
+.h4{
+  text-decoration: underline;
+  font-size: medium;
+  text-align: center;
+}
+input{
+  margin: 8px 0;
+  border-radius: 10px;
+  box-sizing: border-box;
+  background-color: lightgreen;
+}
